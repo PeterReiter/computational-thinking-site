@@ -1,0 +1,46 @@
+---
+title: "Computational Thinking"
+subtitle: "Taught at FHV – Vorarlberg University of Applied Sciences"
+author: "Peter Reiter"
+date: "2025-11-27"
+date-modified: now
+lang: en
+---
+
+## Welcome
+
+Welcome to the course website for **Computational Thinking** taught at [FHV – Vorarlberg University of Applied Sciences](https://www.fhv.at).
+
+This site is your central entry point for course information, learning materials, and updates throughout the semester.
+
+## Who this course is for
+
+This course is designed for undergraduate students in:
+
+- Informatics / Computer Science
+- Information Systems
+
+No advanced background is required beyond basic analytical thinking and motivation to solve real-world problems in a structured way.
+
+## What you will learn
+
+In this course, you will learn how to:
+
+- break complex problems into manageable parts (decomposition)
+- identify patterns and reusable solution strategies
+- model systems using suitable abstractions
+- design and evaluate algorithmic solutions
+- communicate technical reasoning clearly
+
+## How to use this site
+
+Use the navigation to access:
+
+- the syllabus and course organization
+- lecture-related materials
+- assignment and exercise information
+- important announcements
+
+## Course focus
+
+The course connects computational methods with practical applications from software engineering and information systems, helping you build a strong foundation for later technical courses and projects.

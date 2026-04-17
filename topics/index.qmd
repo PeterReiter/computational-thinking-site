@@ -1,0 +1,16 @@
+---
+title: "Topics"
+author: "Peter Reiter"
+date: "2025-11-27"
+date-modified: now
+lang: en
+order: -1
+listing:
+  sort-ui: true
+  sort:
+    - "order"
+    - "date"
+    - "title desc"
+  contents:
+    - "/*/*.qmd"
+--- 

@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 4200
+
+#execute:
+#  freeze: auto
+
+website:
+  title: "FHV Computational Thinking"
+  page-navigation: true
+  back-to-top-navigation: true
+  reader-mode: true
+  navbar:
+    background: primary
+    search: true
+    tools:
+      - icon: github
+        menu:
+          - text: "Source Code"
+            href: https://github.com/PeterReiter/computational-thinking-site
+    left:
+      - href: index.qmd
+        text: Home
+      
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - section: "Home"
+        contents:
+          - index.qmd
+      - section: "Course Information"
+        contents:
+          - course-info/syllabus.qmd
+      - section: "By Topic"
+        href: topics/index.qmd
+        contents: "topics/*/*.qmd"
+      - section: "By Learning Path"
+        href: learning-paths/index.qmd
+        contents: learning-paths/*.qmd
+      - section : "Resources"
+
+
+format: 
+  html:
+    date-format: iso

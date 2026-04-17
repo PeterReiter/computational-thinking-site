@@ -49,3 +49,5 @@ desktop.ini
 *.bak
 *.swp
 *.tmp
+
+**/*.quarto_ipynb
