@@ -1,0 +1,51 @@
+# -------------------------
+# Quarto build output
+# -------------------------
+/_site/
+/_freeze/
+/.quarto/
+
+# -------------------------
+# Quarto execution artifacts
+# -------------------------
+*_cache/
+*_files/
+
+# -------------------------
+# Jupyter / Python
+# -------------------------
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+*.egg-info/
+
+# -------------------------
+# R / knitr
+# -------------------------
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+
+# -------------------------
+# Operating system files
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------------
+# Misc
+# -------------------------
+*.log
+*.bak
+*.swp
+*.tmp
