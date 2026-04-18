@@ -1,0 +1,29 @@
+---
+title: "Basic"
+description: "Learning Path description"
+author:
+  - name: Author One
+  - name: Author Two
+date: "04/18/2026"
+date-modified: now
+order: 0
+draft: true
+image: "assets/img/thumbnail.png"
+categories:
+  - Learning Path
+# other-links:     
+#   - text: Template Download
+#     href: assets/project-template.zip
+#     icon: file-zip
+# resources:
+#  - assets/project-template.zip
+#order: -1
+#listing:
+#  sort-ui: true
+#  sort:
+#    - "order"
+#    - "date"
+#    - "title desc"
+#  contents:
+#    - "/*/*.qmd"
+---

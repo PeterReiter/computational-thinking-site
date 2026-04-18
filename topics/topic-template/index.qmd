@@ -1,0 +1,148 @@
+---
+title: "Topic Template"
+description: "Topic description (max characters 175)"
+author:
+  - name: Author One
+  - name: Author Two
+date: "04/18/2026"
+date-modified: now
+draft: true
+image: "assets/img/thumbnail.png"
+categories:
+  - Topic
+# other-links:     
+#   - text: Template Download
+#     href: assets/project-template.zip
+#     icon: file-zip
+# resources:
+#  - assets/project-template.zip
+---
+
+## Purpose of this page
+
+Use this template to create a **topic page** for the course website.
+
+This page must work in two navigation views:
+
+- **By Topic (Concept-first):** students explore concepts directly
+- **By Learning Path (Sequence-first):** students follow lecture units in order
+
+Your topic page should therefore explain the concept clearly **and** show where it fits in the course sequence.
+
+## Draft mode (important)
+
+As long as the document option `draft: true` is set:
+
+- draft posts appear when you preview the site
+- draft posts are blank when you render the site
+- draft posts do not appear in listings, navigation, the site map, or site search
+
+You can read more in **Website Drafts**.
+
+To publish the post when it is complete, remove `draft: true` from the document options and then render the site.
+
+## Author checklist (before writing)
+
+Fill these items first:
+
+- topic title and short description
+- authors
+- topic thumbnail image
+- topic category tags
+- related learning path units (for cross-links)
+- prerequisites and estimated study time
+
+## 1) Topic at a glance
+
+### Learning outcomes
+
+After completing this topic, students can:
+
+- [Outcome 1]
+- [Outcome 2]
+- [Outcome 3]
+
+### Prerequisites
+
+- [Required prior knowledge]
+- [Optional prior knowledge]
+
+### Estimated effort
+
+- Self-study: [e.g., 45–60 minutes]
+- Practice: [e.g., 30 minutes]
+
+## 2) Core concept (Concept-first view)
+
+### Why this topic matters
+
+[Write 1 short paragraph about relevance for Informatics / Computer Science and Information Systems students.]
+
+### Key ideas
+
+1. [Key idea 1]
+2. [Key idea 2]
+3. [Key idea 3]
+
+### Typical mistakes and misconceptions
+
+- [Misconception 1]
+- [Misconception 2]
+
+## 3) Worked examples
+
+### Example A (basic)
+
+- Context: [Short scenario]
+- Problem: [What must be solved]
+- Solution steps: [Step-by-step explanation]
+- Takeaway: [What students should remember]
+
+### Example B (applied)
+
+- Context: [CS or IS real-world context]
+- Problem: [What must be solved]
+- Solution steps: [Step-by-step explanation]
+- Takeaway: [What students should remember]
+
+## 4) Practice and self-check
+
+### Practice tasks
+
+1. [Task 1]
+2. [Task 2]
+3. [Task 3]
+
+### Self-check questions
+
+- [Question 1]
+- [Question 2]
+- [Question 3]
+
+## 6) Teaching notes (for instructors)
+
+### Suggested in-class use
+
+- [How to introduce]
+- [Where to pause for discussion]
+- [What to emphasize]
+
+### Adaptation options
+
+- For Computer Science focus: [adaptation]
+- For Information Systems focus: [adaptation]
+
+## 7) References and resources
+
+- [Book / article / open educational resource]
+- [Tool or dataset]
+- [Optional advanced reading]
+
+## Quality gate (before publishing)
+
+- Learning outcomes are measurable and clear
+- At least one worked example is included
+- Practice tasks and self-check questions are present
+- Cross-links to related learning-path units are included
+- Language is concise and undergraduate-friendly
+

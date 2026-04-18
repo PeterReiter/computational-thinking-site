@@ -1,0 +1,156 @@
+---
+title: "Learning Unit Template"
+subtitle: "Learning Unit Subtitle"
+description: "Learning Unit description (max characters 175)"
+author:
+  - name: Author One
+  - name: Author Two
+date: "04/18/2026"
+date-modified: now
+order: 1
+draft: true
+image: "assets/img/thumbnail.png"
+categories:
+  - Unit
+---
+
+## Purpose of this page
+
+Use this template to create a single **learning unit** within a learning path.
+
+This page is written for teachers and lecturers who design, deliver, and maintain unit-level e-learning content.
+
+## Draft mode (important)
+
+As long as the document option `draft: true` is set:
+
+- draft units appear when you preview the site
+- draft units are blank when you render the site
+- draft units do not appear in listings, navigation, the site map, or site search
+
+To publish this unit, remove `draft: true` and render the site.
+
+## Author checklist (before writing)
+
+Complete these items first:
+
+- unit title, subtitle, and short description
+- unit order in the learning path (`order`)
+- intended audience and prerequisites
+- estimated time-on-task
+- required resources (files, links, tools)
+- related concept/topic pages for cross-linking
+
+## Unit at a glance
+
+### Unit learning outcomes
+
+After completing this unit, students can:
+
+- [Outcome 1]
+- [Outcome 2]
+- [Outcome 3]
+
+### Prerequisites
+
+- [Required prior knowledge]
+- [Recommended prior knowledge]
+
+### Estimated effort
+
+- Preparation: [e.g., 20 minutes]
+- Learning activities: [e.g., 45 minutes]
+- Follow-up / practice: [e.g., 30 minutes]
+
+## Preparation
+
+Describe what students should do before the main activity.
+
+Include:
+
+- short context and motivation
+- required reading or media
+- setup instructions (if needed)
+- key terms students should know
+
+## Learning activities
+
+Structure the core of the unit into small, clear steps.
+
+### Activity A
+
+- Goal: [What students should achieve]
+- Task: [What students do]
+- Expected output: [What students submit / produce]
+
+### Activity B
+
+- Goal: [What students should achieve]
+- Task: [What students do]
+- Expected output: [What students submit / produce]
+
+## Practice and feedback
+
+### Practice tasks
+
+1. [Task 1]
+2. [Task 2]
+3. [Task 3]
+
+### Feedback guidance
+
+- [Criteria for correct/strong answers]
+- [Typical errors and how to correct them]
+- [Hints or scaffolding for struggling learners]
+
+## Assessment alignment
+
+Explain how this unit supports the course assessment strategy.
+
+- related assessment components: [quiz / assignment / project / exam]
+- evidence of learning: [what demonstrates outcome achievement]
+- grading relevance: [formative / summative]
+
+## Links to topics and path sequence
+
+Keep both website views connected:
+
+- Related topics (concept-first): [link to topic pages]
+- Previous unit (sequence-first): [link]
+- Next unit (sequence-first): [link]
+
+## Teaching notes (for instructors)
+
+### Suggested facilitation
+
+- [How to introduce this unit]
+- [Where to pause for discussion]
+- [How to run group/individual work]
+
+### Adaptation options
+
+- Large class: [adaptation]
+- Small class: [adaptation]
+- Online / hybrid delivery: [adaptation]
+
+## Maintenance notes
+
+### Ownership
+
+- Unit owner: [name / role]
+- Last pedagogical review: [date]
+
+### Update cycle
+
+- Before semester start: verify links, instructions, and workload
+- During semester: fix issues and clarify instructions based on questions
+- After semester: revise using feedback and performance data
+
+## Quality gate (before publishing)
+
+- Learning outcomes are measurable and aligned with unit tasks
+- Estimated effort is realistic for the target audience
+- Activities, practice, and feedback criteria are complete
+- Links to previous/next unit and related topics are present
+- Language is clear, concise, and learner-friendly
+- `draft: true` is removed when the unit is ready to publish

@@ -1,10 +1,35 @@
 ---
-title: "Overview"
-author: "Peter Reiter"
+title: "Learning Paths"
+author:
+  - name: Peter Reiter
 date: "2025-11-27"
 date-modified: now
 lang: en
 order: -1
+listing:
+  id: learning-paths
+  sort-ui: true
+  sort:
+    - "order"
+    - "date"
+    - "title desc"
+  contents:
+    - "/*/*.qmd"
 ---
 
-## Overview
+## Learning Paths
+
+Learning paths organize course materials into a recommended sequence of learning units.
+
+They help you move step by step from foundational ideas to more advanced applications, so you always know what to study next.
+
+Use the paths to plan your weekly learning, prepare for class sessions, and review before assessments.
+
+### How to use this section
+
+- Start with the first unit of a path unless your instructor indicates otherwise.
+- Follow units in order, because later units often build on earlier ones.
+- Use each unit's activities and resources for preparation, practice, and revision.
+
+:::{#learning-paths}
+:::

@@ -1,0 +1,154 @@
+---
+title: "Learning Path Template"
+description: "Learning Path description (max characters 175)"
+author:
+  - name: Author One
+  - name: Author Two
+date: "04/18/2026"
+date-modified: now
+draft: true
+image: "assets/img/thumbnail.png"
+categories:
+  - Learning Path
+# other-links:     
+#   - text: Template Download
+#     href: assets/project-template.zip
+#     icon: file-zip
+# resources:
+#  - assets/project-template.zip
+listing:
+  id: units
+  sort-ui: false
+  sort:
+    - "order"
+    - "date"
+    - "title desc"
+  contents:
+    - "/*/*.qmd"
+---
+
+## Purpose of this page
+
+Use this template to design and maintain a **learning path**: a sequence-first route through course content that students can follow step by step.
+
+This page is intended for teachers and lecturers who coordinate multiple learning units and authors.
+
+## Draft mode (important)
+
+As long as the document option `draft: true` is set:
+
+- draft pages appear when you preview the site
+- draft pages are blank when you render the site
+- draft pages do not appear in listings, navigation, the site map, or site search
+
+To publish this page, remove `draft: true` and render the site.
+
+## Author checklist (before writing)
+
+Complete these items first:
+
+- clear path title and short description
+- path level (e.g., foundational, intermediate, advanced)
+- target audience and entry prerequisites
+- responsible lecturer(s) and contact point
+- list of planned units with intended order
+- expected weekly workload and timeline
+
+## Learning path at a glance
+
+### Learning outcomes
+
+By the end of this path, students can:
+
+- [Outcome 1]
+- [Outcome 2]
+- [Outcome 3]
+
+### Target audience
+
+- [Program / semester / profile]
+
+### Prerequisites
+
+- [Required prior knowledge]
+- [Recommended prior knowledge]
+
+### Workload
+
+- Total effort: [e.g., 20-30 hours]
+- Recommended pace: [e.g., 1-2 units per week]
+
+## Path design and sequencing
+
+Describe how this path is structured and why the sequence matters.
+
+### Sequence logic
+
+- [How units build on each other]
+- [Where major transitions happen]
+- [Where consolidation or review is planned]
+
+### Milestones
+
+1. [Milestone 1]
+2. [Milestone 2]
+3. [Milestone 3]
+
+## Unit authoring standards (for lecturers and contributors)
+
+Each unit should include:
+
+- measurable unit-level learning outcomes
+- estimated time and prerequisites
+- preparation, in-class activity, and follow-up tasks
+- at least one practice component with feedback criteria
+- links to relevant topic pages (concept-first view)
+
+## Connection to both site views
+
+To keep navigation coherent across the website:
+
+- this learning path page links to all unit pages in sequence
+- each unit page links to related topic pages
+- each topic page links back to related units in this path
+
+This ensures students can switch between:
+
+- **By Learning Path (Sequence-first)** for guided progression
+- **By Topic (Concept-first)** for concept review and deepening
+
+## Operational guidance for maintenance
+
+### Roles and responsibilities
+
+- Path owner: [name / role]
+- Unit authors: [names / roles]
+- Review responsibility: [who approves updates]
+
+### Update cycle
+
+- Before semester start: verify sequence, workload, links, and assessments
+- During semester: update announcements and fix broken links/resources
+- After semester: review learner feedback and revise units
+
+### Versioning and quality control
+
+- update `date-modified` on every substantive change
+- keep one source of truth per unit (avoid duplicated instructions)
+- archive or clearly label deprecated unit content
+
+## Publishing checklist
+
+- Unit order is correct and complete
+- All units include prerequisites and estimated effort
+- Cross-links to topics are present and valid
+- Workload is realistic for the intended schedule
+- Ownership and maintenance responsibilities are clear
+- `draft: true` is removed when ready to publish
+
+## Units in this path
+
+:::{#units}
+
+
+:::

@@ -1,0 +1,4 @@
+website:
+  drafts:
+    - topics/topic-01/index.qmd
+    - topics/topic-02/index.qmd

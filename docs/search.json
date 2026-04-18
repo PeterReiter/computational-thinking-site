@@ -1,5 +1,27 @@
 [
   {
+    "objectID": "learning-paths/index.html",
+    "href": "learning-paths/index.html",
+    "title": "Learning Paths",
+    "section": "",
+    "text": "Learning paths organize course materials into a recommended sequence of learning units.\nThey help you move step by step from foundational ideas to more advanced applications, so you always know what to study next.\nUse the paths to plan your weekly learning, prepare for class sessions, and review before assessments.\n\n\n\nStart with the first unit of a path unless your instructor indicates otherwise.\nFollow units in order, because later units often build on earlier ones.\nUse each unit’s activities and resources for preparation, practice, and revision.\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "By Learning Path"
+    ]
+  },
+  {
+    "objectID": "learning-paths/index.html#learning-paths",
+    "href": "learning-paths/index.html#learning-paths",
+    "title": "Learning Paths",
+    "section": "",
+    "text": "Learning paths organize course materials into a recommended sequence of learning units.\nThey help you move step by step from foundational ideas to more advanced applications, so you always know what to study next.\nUse the paths to plan your weekly learning, prepare for class sessions, and review before assessments.\n\n\n\nStart with the first unit of a path unless your instructor indicates otherwise.\nFollow units in order, because later units often build on earlier ones.\nUse each unit’s activities and resources for preparation, practice, and revision.\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Home",
+      "By Learning Path"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Computational Thinking",
@@ -66,103 +88,18 @@
     ]
   },
   {
-    "objectID": "learning-paths/index.html",
-    "href": "learning-paths/index.html",
-    "title": "Learning Paths",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Home",
-      "By Learning Path"
-    ]
-  },
-  {
-    "objectID": "learning-paths/aa.html",
-    "href": "learning-paths/aa.html",
-    "title": "AA",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Home",
-      "By Learning Path",
-      "Learning Paths",
-      "AA"
-    ]
-  },
-  {
-    "objectID": "topics/topics.html",
-    "href": "topics/topics.html",
-    "title": "Topics",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nTopic 02\n\n\nTest\n\n\nTest\n\n\n\n\n\n2025-11-27\n\n\nPeter Reiter\n\n\n\n\n\n\n\n\n\n\n\n\nTopic 01\n\n\nTest\n\n\nTest\n\n\n\n\n\n2025-11-27\n\n\nPeter Reiter\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Home",
-      "By Topic"
-    ]
-  },
-  {
-    "objectID": "topics/topic_01/index.html",
-    "href": "topics/topic_01/index.html",
-    "title": "Topic 01",
+    "objectID": "learning-paths/basic/unit-template/index.html",
+    "href": "learning-paths/basic/unit-template/index.html",
+    "title": "FHV Computational Thinking",
     "section": "",
     "text": "Back to top"
-  },
-  {
-    "objectID": "topics/topic-01/index.html",
-    "href": "topics/topic-01/index.html",
-    "title": "Topic 01",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Home",
-      "By Topic",
-      "Topic 01"
-    ]
-  },
-  {
-    "objectID": "topics/topic-02/index.html",
-    "href": "topics/topic-02/index.html",
-    "title": "Topic 02",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Home",
-      "By Topic",
-      "Topic 02"
-    ]
-  },
-  {
-    "objectID": "docs/topics/topic-02/index.html",
-    "href": "docs/topics/topic-02/index.html",
-    "title": "Topic 02",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "docs/topics/topic-01/index.html",
-    "href": "docs/topics/topic-01/index.html",
-    "title": "Topic 01",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "topics/overview.html",
-    "href": "topics/overview.html",
-    "title": "Topics",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nTopic 02\n\n\nTest\n\n\nTest\n\n\n\n\n\n2025-11-27\n\n\nPeter Reiter\n\n\n\n\n\n\n\n\n\n\n\n\nTopic 01\n\n\nTest\n\n\nTest\n\n\n\n\n\n2025-11-27\n\n\nPeter Reiter\n\n\n\n\n\nNo matching items\n Back to top",
-    "crumbs": [
-      "Home",
-      "By Topic",
-      "Topics"
-    ]
   },
   {
     "objectID": "topics/index.html",
     "href": "topics/index.html",
     "title": "Topics",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n\n\n\n\n\n\n\n\n\n\nTopic 02\n\n\nTest\n\n\nTest\n\n\n\n\n\n2025-11-27\n\n\nPeter Reiter\n\n\n\n\n\n\n\n\n\n\n\n\nTopic 01\n\n\nTest\n\n\nTest\n\n\n\n\n\n2025-11-27\n\n\nPeter Reiter\n\n\n\n\n\nNo matching items\n Back to top",
+    "text": "No matching items\n Back to top",
     "crumbs": [
       "Home",
       "By Topic"

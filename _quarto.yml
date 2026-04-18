@@ -9,9 +9,11 @@ project:
 
 website:
   title: "FHV Computational Thinking"
+  image: assets/img/fhv-logo.png
   page-navigation: true
   back-to-top-navigation: true
   reader-mode: true
+  draft-mode: unlinked # gone, unlinked, visible
   navbar:
     background: primary
     search: true
@@ -39,9 +41,11 @@ website:
         contents: "topics/*/*.qmd"
       - section: "By Learning Path"
         href: learning-paths/index.qmd
-        contents: learning-paths/*.qmd
+        contents: "learning-paths/*/index.qmd"
       - section : "Resources"
 
+metadata-files: 
+  - drafts.yml
 
 format: 
   html:

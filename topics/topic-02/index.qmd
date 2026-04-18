@@ -1,10 +1,13 @@
 ---
-title: "Topic 02"
-subtitle: "Test"
-author: "Peter Reiter"
-date: "2025-11-27"
+title: "Topic 01"
+description: "Topic description"
+author:
+  - name: Author One
+  - name: Author Two
+date: "04/18/2026"
 date-modified: now
-lang: en
-order: -10
-description: "Test"
+draft: true
+image: "assets/img/thumbnail.png"
+categories:
+  - Topic
 ---
